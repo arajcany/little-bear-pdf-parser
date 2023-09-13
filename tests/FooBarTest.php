@@ -38,12 +38,5 @@ class FooBarTest extends TestCase
         $result = $FooBar->addNumbers(9, 0);
         assertEquals(9, $result);
     }
-/*
-    public function testSplit()
-    {
-        $FooBar = new FooBar();
-        $result = $FooBar->split(4);
-        assertEquals(true, $result);
-    }
-*/
+
 }
