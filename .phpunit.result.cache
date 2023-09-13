@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Test\\FooBarTest::testReturnFalse":3,"App\\Test\\FooBarTest::testAddNumbers":7},"times":{"App\\Test\\FooBarTest::testReturnTrue":0.006,"App\\Test\\FooBarTest::testReturnFalse":0,"App\\Test\\FooBarTest::testAddNumbers":0}}
